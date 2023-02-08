@@ -1,0 +1,6 @@
+#countdown-clock {
+    font-family: 'Open Sans', sans-serif;
+    font-size: clamp(0.875rem, 6vw, 2rem);
+    display: flex;
+    gap: 1.25rem;
+}
